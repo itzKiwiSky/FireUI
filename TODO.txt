@@ -1,0 +1,15 @@
+[0.0.1 release]
+
+[.] Widgets
+    [X] Button
+    [X] SpriteButton
+    [.] Slider
+    [X] Label
+    [.] Checkbox
+    [X] Panel
+    [X] SpritePanel
+    [.] Clickzone
+[X] Fully customizable widgets (editing drawcalls)
+[X] Simple customization with themeing
+[X] Customize behavior for each widget
+[X] Attach to parent
